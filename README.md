@@ -14,7 +14,7 @@ A user who is not logged in has the login window available.
 
 # Screenshot :
 
-![Overview](./https://res.cloudinary.com/duywqcsue/image/upload/v1604337138/README_toswx2.png)
+![Overview](https://res.cloudinary.com/duywqcsue/image/upload/v1604337138/README_toswx2.png)
 
 
 
