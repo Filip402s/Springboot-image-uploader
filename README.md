@@ -12,6 +12,10 @@ A user who is not logged in has the login window available.
 * SpringBoot 2.3.4,
 * Vaadin 14.4.1.
 
+# Screenshot :
+
+![Overview](./https://res.cloudinary.com/duywqcsue/image/upload/v1604337138/README_toswx2.png)
+
 
 
 
