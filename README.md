@@ -8,9 +8,9 @@ A user who is not logged in has the login window available.
 
 Maven project >
 
-Java 11
-SpringBoot 2.3.4
-Vaadin 14.4.1
+Java 11,
+SpringBoot 2.3.4,
+Vaadin 14.4.1.
 
 
 
