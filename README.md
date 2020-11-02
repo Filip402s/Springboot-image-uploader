@@ -6,14 +6,12 @@ A user who is not logged in has the login window available.
 
 # Technologies :
 
-Maven project >
-
-Java 11,
-SpringBoot 2.3.4,
-Vaadin 14.4.1.
 
 
-![Main Page - gallery](C:\Users\Filip\Desktop\TROLOLOLOLOLO/README.png)
+* Java 11 Maven project,
+* SpringBoot 2.3.4,
+* Vaadin 14.4.1.
+
 
 
 
