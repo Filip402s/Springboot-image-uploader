@@ -10,7 +10,9 @@ A user who is not logged in has the login window available.
 
 * Java 11 Maven project,
 * SpringBoot 2.3.4,
-* Vaadin 14.4.1.
+* Vaadin 14.4.1. 
+* Spring Data JPA
+* Spring Security
 
 # Screenshot :
 
